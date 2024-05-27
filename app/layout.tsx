@@ -11,9 +11,9 @@ import { Providers } from '@/components/providers';
 
 const meta = {
   title: 'answer engine',
-  description:
-    'anwser engine built by developers digest',
+  description: 'answer engine built by developers digest',
 };
+
 export const metadata: Metadata = {
   ...meta,
   title: {
